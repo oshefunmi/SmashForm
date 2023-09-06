@@ -1,0 +1,42 @@
+body{
+    background-image: none;
+    background-image:url(loveourplanet.jpg) ;
+    background-image: linear-gradient();
+    background-position: center;
+    background-color: rgb(80, 80, 165);
+    font-family: sans-serif;
+}
+
+form{
+    background-position: center;
+    padding-left: 100px;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    padding-right: 100px ;
+    border-radius: 10px;
+}
+
+.form{
+    background-position: center;
+    background-color: rgba(255, 255, 255, o.7) ;
+    padding: 50px;
+    background-color: rgba(200, 200, 255, 0.75);
+    border-radius: 7px;
+}
+
+input{
+    width: 100%;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    font-size: 1.2em;
+}
+
+#sub{
+    margin-top: 7px ;
+    background-image: linear-gradient(rgb(32, 148, 32), rgb(9, 65, 9));
+}
+
+#reset{
+    margin-top: 7px;
+    background-image: linear-gradient( rgb(241, 100, 6), rgb(238, 28, 21));
+}
